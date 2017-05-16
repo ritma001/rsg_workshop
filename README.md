@@ -2,7 +2,7 @@
 Reproducible research work shop I  
 
 ## Content
-* Introduction
+* Background
 * Methods
 * Results
 * Discussion
